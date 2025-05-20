@@ -72,7 +72,6 @@ var reverseVowels = function(s) {
             right--;
         }
     }
-
     return arr.join('');
 };
 
